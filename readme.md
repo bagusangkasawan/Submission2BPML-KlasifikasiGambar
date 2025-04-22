@@ -1,4 +1,4 @@
-# 🐾 Proyek Klasifikasi Gambar: ANIMALS-10
+# 🐾 Proyek Klasifikasi Gambar: [ANIMALS-10](https://huggingface.co/datasets/dgrnd4/animals-10)
 
 ## 📌 Deskripsi
 Proyek ini merupakan implementasi model deep learning untuk melakukan **klasifikasi gambar hewan** dari dataset **Animals-10** menggunakan arsitektur **MobileNetV2**. Proyek mencakup proses mulai dari persiapan data, pelatihan model, evaluasi, hingga konversi ke format **TensorFlow Lite** dan **TensorFlow.js**, serta fitur **prediksi gambar interaktif**.
